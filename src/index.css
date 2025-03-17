@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
